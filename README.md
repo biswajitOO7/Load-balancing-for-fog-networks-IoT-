@@ -1,4 +1,4 @@
-# Load-balancing-for-fog-networks-IoT-
+# Load-balancing-for-fog-networks (IoT)
 
 Link of iFogSim simulation tool https://github.com/Cloudslab/iFogSim
 
